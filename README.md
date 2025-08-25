@@ -31,7 +31,7 @@ public class GameManager : Singleton<GameManager>
         // ...
     }
 
-public void Startup()
+    public void Startup()
     {
         // Можно использовать для инициализации, если нужно
     }
