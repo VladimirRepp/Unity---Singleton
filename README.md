@@ -26,14 +26,14 @@ public class GameManager : Singleton<GameManager>
         // Ваша логика инициализации здесь
     }
 
-    public void YourMethod()
-    {
-        // ...
-    }
-
     public void Startup()
     {
         // Можно использовать для инициализации, если нужно
+    }
+
+    public void YourMethod()
+    {
+        // ...
     }
 }
 ```
